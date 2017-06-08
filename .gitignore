@@ -1,5 +1,5 @@
-.DS_Store/
-.idea/
-.tscache/
-dist/
-node_modules/
+.idea
+.tscache
+dist
+node_modules
+*.log
